@@ -1,0 +1,6 @@
+{
+  "name": "Authentix Apparel",
+  "description": "Authentix Apparel - Luxury Women's Fashion & Modest Clothing Store in Bangladesh. Premium Three-Piece, Western Dresses, Hijabs, and Festive collections with Cash on Delivery nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

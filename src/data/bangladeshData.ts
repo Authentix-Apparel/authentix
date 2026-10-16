@@ -1,0 +1,77 @@
+// The complete official list of all 64 districts in Bangladesh
+export const BD_64_DISTRICTS = [
+  'Dhaka',
+  'Bagerhat',
+  'Bandarban',
+  'Barguna',
+  'Barisal',
+  'Bhola',
+  'Bogra',
+  'Brahmanbaria',
+  'Chandpur',
+  'Chapainawabganj',
+  'Chittagong',
+  'Chuadanga',
+  'Comilla',
+  'Cox\'s Bazar',
+  'Dinajpur',
+  'Faridpur',
+  'Feni',
+  'Gaibandha',
+  'Gazipur',
+  'Gopalganj',
+  'Habiganj',
+  'Jamalpur',
+  'Jessore',
+  'Jhalokati',
+  'Jhenaidah',
+  'Joypurhat',
+  'Khagrachhari',
+  'Khulna',
+  'Kishoreganj',
+  'Kurigram',
+  'Kushtia',
+  'Lakshmipur',
+  'Lalmonirhat',
+  'Madaripur',
+  'Magura',
+  'Manikganj',
+  'Meherpur',
+  'Moulvibazar',
+  'Munshiganj',
+  'Mymensingh',
+  'Naogaon',
+  'Narail',
+  'Narayanganj',
+  'Narsingdi',
+  'Natore',
+  'Netrokona',
+  'Nilphamari',
+  'Noakhali',
+  'Pabna',
+  'Panchagarh',
+  'Patuakhali',
+  'Pirojpur',
+  'Rajbari',
+  'Rajshahi',
+  'Rangamati',
+  'Rangpur',
+  'Satkhira',
+  'Shariatpur',
+  'Sherpur',
+  'Sirajganj',
+  'Sunamganj',
+  'Sylhet',
+  'Tangail',
+  'Thakurgaon'
+];
+
+export const DELIVERY_FEES = {
+  dhaka: 70, // ৳70 within Dhaka
+  outsideDhaka: 130, // ৳130 outside Dhaka (all other 63 districts)
+  freeThreshold: 3500 // Free delivery above ৳3500
+};
+
+export const WHATSAPP_NUMBER = '01755-025128';
+export const BKASH_MERCHANT_NUMBER = '01755-025128';
+export const NAGAD_MERCHANT_NUMBER = '01755-025128';
